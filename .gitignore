@@ -205,3 +205,30 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Custom additions for this project
+
+# Credentials & Config
+config/config.yaml
+.env
+*.pem
+
+# Logs
+logs/
+*.log
+
+# Data files (don't commit large datasets)
+data/raw/*.csv
+data/processed/*.csv
+*.xlsx
+*.db
+
+# Power BI temporary files
+*.pbix.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
