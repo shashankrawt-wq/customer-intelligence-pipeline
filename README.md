@@ -1,4 +1,4 @@
-\# Customer Intelligence Analytics Platform
+# Customer Intelligence Analytics Platform
 
 
 
